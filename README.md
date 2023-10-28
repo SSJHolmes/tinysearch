@@ -175,6 +175,7 @@ The following websites use tinysearch:
 - [Matthias Endler's blog](https://endler.dev/2019/tinysearch/)
 - [OutOfCheeseError](https://out-of-cheese-error.netlify.app/)
 - [Museum of Warsaw Archdiocese](https://maw.art.pl/cyfrowemaw/)
+- [DistinctiveStatic](https://www.distinctivestatic.com)
 
 Are you using tinysearch, too? Add your site here!
 
